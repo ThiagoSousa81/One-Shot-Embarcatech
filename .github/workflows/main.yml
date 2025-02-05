@@ -59,4 +59,4 @@ jobs:
           #  build/${{ env.PROJECT_NAME }}.uf2
 
           # Libere o comando abaixo se quiser que a pasta build seja carregada inteira nos artefatos
-           path: build/*
+          path: build/*
