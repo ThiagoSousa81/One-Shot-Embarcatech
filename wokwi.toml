@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/OneShot-Embarcatech.uf2'
+elf = 'build/OneShot-Embarcatech.elf'
+gdbServerPort=3333
